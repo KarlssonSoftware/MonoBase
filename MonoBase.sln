@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoBase", "MonoBase\MonoBase.csproj", "{EAFEDF44-454F-4A39-B54B-43A962B87EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFEDF44-454F-4A39-B54B-43A962B87EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFEDF44-454F-4A39-B54B-43A962B87EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFEDF44-454F-4A39-B54B-43A962B87EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFEDF44-454F-4A39-B54B-43A962B87EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81EB0AAC-E8B8-4DA5-AD85-A2BFABE8C306}
+	EndGlobalSection
+EndGlobal
